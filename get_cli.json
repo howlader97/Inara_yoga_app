@@ -1,0 +1,5 @@
+{
+  "sub_folder": {
+    "auth" : "lib/app/modules/auth"
+  }
+}
